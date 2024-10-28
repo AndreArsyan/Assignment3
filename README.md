@@ -10,7 +10,7 @@
 Create a program that can generate an email for various type of users.
 
 # GitHub Repository Link:
-https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}
+https://github.com/AndreArsyan/Assignment3
 
 # Implementation Description 
 
